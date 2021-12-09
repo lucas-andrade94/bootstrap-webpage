@@ -23,7 +23,7 @@ Project developed using the following technologies:
 
 ### Website
 
-https://radiant-brushlands-87677.herokuapp.com/
+https://lucas-andrade94.github.io/bootstrap-webpage/
 
 ### Screens
 
